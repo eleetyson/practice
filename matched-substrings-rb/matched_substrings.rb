@@ -1,3 +1,5 @@
+# given two strings, return all matching substrings between them (or false if no matches)
+# assume case doesn't matter
 class Solution
   def match(str1, str2)
     matches = []

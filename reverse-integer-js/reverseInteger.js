@@ -1,3 +1,4 @@
+// given an integer, reverse its digits
 function reverse(int) {
   let reversedArr = Array.from(String(int), Number).reverse()
   let reversedInt = parseInt(reversedArr.join(''))

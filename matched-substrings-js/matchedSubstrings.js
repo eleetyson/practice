@@ -1,3 +1,5 @@
+// given two strings, return all matching substrings between them (or false if no matches)
+// assume case doesn't matter
 function matchSubstrings(str1, str2) {
   const substrings = []
   const s1 = str1.toLowerCase()
