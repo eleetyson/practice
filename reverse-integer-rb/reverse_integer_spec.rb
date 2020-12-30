@@ -20,5 +20,4 @@ describe 'reverse_integer' do
     expect(test.reverse(0)).to eq(0)
   end
 
-
 end
