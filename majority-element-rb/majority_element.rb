@@ -10,4 +10,6 @@ def find_majority_element(nums)
   end
 
   return counts.key(counts.values.max)
+
+  
 end
